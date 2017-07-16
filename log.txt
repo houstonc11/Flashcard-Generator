@@ -1,0 +1,7 @@
+
+FRONT: How many tennis majors has Roger Federer won? BACK: 18 
+FRONT: Ryan Reynolds plays what Marvel superhero? BACK: Deadpool 
+FRONT: What is the largest continent on Earth? BACK: Asia 
+FRONT: The Brady Bunch had ... kids in their family. BACK: six 
+FRONT: Batman fights crime in .... BACK: Gothem City. 
+FRONT: ... is the planet closest to Earth. BACK: Venus

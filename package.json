@@ -1,0 +1,24 @@
+{
+  "name": "Flashcard-Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/houstonc11/Flashcard-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/houstonc11/Flashcard-Generator/issues"
+  },  
+  "homepage": "https://github.com/houstonc11/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^2.0.0",
+    "file-system": "^2.2.2",
+  }
+}
